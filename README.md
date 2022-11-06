@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Olivergentle
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Olivergentle Ugo Nwakor
+- 👀 I’m interested in business and entertainment
+- 🌱 I’m currently learning how to make a real site
+- 💞️ I’m looking to collaborate on social media marketing
+- 📫 How to reach me nwakoroliver@gmail.com.
 
 <!---
 Olivergentle/Olivergentle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
